@@ -1,8 +1,8 @@
-# Introduction to Git and GitHub
+# Getting Started with Git and GitHub
 
 # Purpose
 
-This is a forked repo created for the _IBM Full Stack Software Developer_ program on Coursera.
+This is a forked repo created for the 3rd course of the _IBM Full Stack Software Developer_ program on Coursera.
 
 ## Simple Interest Calculator
 
